@@ -38,6 +38,11 @@ This is a real-time website developed for Vyamanika Aerospace, featuring interac
 - Add authentication and authorization.
 - Enhance error handling.
 
+
+## Preview 
+
+![image](https://github.com/user-attachments/assets/9b939670-6eb2-4d56-bcb6-89605b51002c) 
+
 ## Contact
 
 For any questions, feel free to reach out:
@@ -45,10 +50,6 @@ For any questions, feel free to reach out:
 - **Name**: Foram Ghoghari
 - **GitHub**: [ForamGhoghari08](https://github.com/ForamGhoghari08)
 - **Email**: ghoghariforam08@gmail.com
-
-## Preview 
-
-![image](https://github.com/user-attachments/assets/9b939670-6eb2-4d56-bcb6-89605b51002c) 
 
 
 
